@@ -142,7 +142,7 @@ dist
 .svelte-kit
 
 # Database
-prisma/migrations
-prisma/dev.db
+.prisma/migrations
+./prisma/*.db
 
 # End of https://www.toptal.com/developers/gitignore/api/node
